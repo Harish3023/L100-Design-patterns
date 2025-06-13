@@ -52,6 +52,6 @@ It is useful when:
 
 ## 🛠️ How to Compile and Run
 
-- javac creational/*.java
-- java creational.Main
+- javac creational/factory/*.java
+- java creational/factory.Main
 
